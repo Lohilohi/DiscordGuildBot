@@ -139,4 +139,4 @@ async def on_raw_reaction_remove(payload):
     
 
 #Runs the client. This part always be at the VERY end of the code
-client.run('NjY2NTM4OTI1NTY0NjI0OTE3.XiHkhQ.W-HE4BLCssqsoRRbGfBYwb0x9ZU')
+client.run('NjY2NTM4OTI1NTY0NjI0OTE3.XiHu5A.lMF-AVBQkwn7qwZ1XwTBcogW6u0')
