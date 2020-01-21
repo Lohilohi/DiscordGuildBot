@@ -40,10 +40,6 @@ async def wowprog(ctx):
 async def youtube(ctx):
     await ctx.send('https://www.youtube.com/channel/UC2xDXOpNdGCeTeuoT6wCBVg?view_as=subscriber')
 
-#author/creator info
-@client.command()
-async def author(ctx):
-    await ctx.send('```The genius behind me = Lohi```')
 
 #dm  
 @client.command()
@@ -139,4 +135,4 @@ async def on_raw_reaction_remove(payload):
     
 
 #Runs the client. This part always be at the VERY end of the code
-client.run('NjY2NTM4OTI1NTY0NjI0OTE3.XiHu5A.lMF-AVBQkwn7qwZ1XwTBcogW6u0')
+client.run('***')
